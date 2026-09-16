@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/gBxP6oJ.gif" alt="Profile Image" width="1000"/>
+  <img src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif" alt="Profile Image" width="1000"/>
 </p>
 
 # About Me
@@ -42,9 +42,12 @@
 
 I’m a passionate **Full-Stack Web Developer** who loves turning ideas into functional, elegant applications. I actively contribute to **open-source projects**, collaborating with developers worldwide to solve real problems and improve software. I continuously strengthen my problem-solving skills through **Data Structures and Algorithms**, ensuring my code is efficient and maintainable. Beyond web development, I explore **Cloud and Data Engineering**, building scalable, reliable, and data-driven systems. I’m always learning, experimenting, and looking for opportunities to create impactful technology.
 
+<br>
+
 <table width="100%">
 <tr>
 
+<!-- TECH STACK -->
 <td width="50%" valign="top" style="padding-right: 10px;">
 
 <table width="100%">
@@ -148,6 +151,7 @@ I’m a passionate **Full-Stack Web Developer** who loves turning ideas into fun
 
 </td>
 
+<!-- LEETCODE -->
 <td width="50%" valign="middle" align="center" style="padding-left: 10px;">
 
 <h2>Leetcode</h2>
@@ -168,19 +172,6 @@ I’m a passionate **Full-Stack Web Developer** who loves turning ideas into fun
 
 </tr>
 </table>
-
-<hr>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=101xVishal&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=101xVishal&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=101xVishal&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <hr>
 
