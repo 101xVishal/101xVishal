@@ -137,16 +137,6 @@ I’m a passionate **Full-Stack Web Developer** who loves turning ideas into fun
 
 </td>
 </tr>
-
-<tr>
-<td>Web3</td>
-<td>
-
-<img src="https://img.shields.io/badge/Web3.js-161B22?style=flat&logo=web3dotjs&logoColor=F16822" alt="Web3.js"/>
-
-</td>
-</tr>
-
 </table>
 
 </td>
