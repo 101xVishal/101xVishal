@@ -40,7 +40,7 @@
 </tr>
 </table>
 
-I’m a passionate **Full-Stack Web Developer** who loves turning ideas into functional, elegant applications. I actively contribute to **open-source projects**, collaborating with developers worldwide to solve real problems and improve software. I continuously strengthen my problem-solving skills through **Data Structures and Algorithms**, ensuring my code is efficient and maintainable. Beyond web development, I explore **Cloud and Data Engineering**, building scalable, reliable, and data-driven systems. I’m always learning, experimenting, and looking for opportunities to create impactful technology.
+AI/ML and Full-Stack Engineer, currently a third-year B.Tech Computer Science student. Experienced in building web applications using modern frontend and backend technologies, with working knowledge of machine learning and cloud platforms. Contribute to open-source projects and maintain a strong foundation in Data Structures and Algorithms. Focused on writing efficient, maintainable code and building scalable systems.
 
 <br>
 
