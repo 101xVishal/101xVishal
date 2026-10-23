@@ -32,7 +32,7 @@
 </td>
 
 <td align="center" width="20%">
-<a href="https://leetcode.com/Vishal_Patil45/">
+<a href="https://leetcode.com//">
 <img src="https://img.shields.io/badge/LeetCode-161B22?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
 </a>
 </td>
