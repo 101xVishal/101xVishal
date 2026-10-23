@@ -141,26 +141,7 @@ AI/ML and Full-Stack Engineer, currently a third-year B.Tech Computer Science st
 
 </td>
 
-<!-- LEETCODE -->
-<td width="50%" valign="middle" align="center" style="padding-left: 10px;">
 
-<h2>Leetcode</h2>
-
-<p align="center">
-
-<a href="https://leetcode.com/Vishal_Patil45/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/marketing/8.gif" height="100" width="100" alt="LeetCode Badge 1"/>
-</a>
-
-<a href="https://leetcode.com/Vishal_Patil45/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/others/50.gif" height="100" width="100" alt="LeetCode Badge 2"/>
-</a>
-
-</p>
-
-</td>
-
-</tr>
 </table>
 
 <hr>
