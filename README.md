@@ -32,7 +32,7 @@
 </td>
 
 <td align="center" width="20%">
-<a href="https://leetcode.com//">
+<a href="https://leetcode.com/Vishal_Patil45/">
 <img src="https://img.shields.io/badge/LeetCode-161B22?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
 </a>
 </td>
@@ -149,3 +149,21 @@ AI/ML and Full-Stack Engineer, currently a third-year B.Tech Computer Science st
 <p align="center">
   <img src="https://count.getloli.com/@:101xVishal" alt="Profile views"/>
 </p>
+
+<!-- LEETCODE -->
+<td width="50%" valign="middle" align="center" style="padding-left: 10px;">
+
+<h2>Leetcode</h2>
+
+<p align="center">
+
+<a href="https://leetcode.com/Vishal_Patil45/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/marketing/8.gif" height="100" width="100" alt="LeetCode Badge 1"/>
+</a>
+
+<a href="https://leetcode.com/Vishal_Patil45/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/others/50.gif" height="100" width="100" alt="LeetCode Badge 2"/>
+</a>
+</p>
+</td>
+</tr>
