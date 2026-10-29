@@ -141,15 +141,6 @@ AI/ML and Full-Stack Engineer, currently a third-year B.Tech Computer Science st
 
 </td>
 
-
-</table>
-
-<hr>
-
-<p align="center">
-  <img src="https://count.getloli.com/@:101xVishal" alt="Profile views"/>
-</p>
-
 <!-- LEETCODE -->
 <td width="50%" valign="middle" align="center" style="padding-left: 10px;">
 
@@ -167,3 +158,12 @@ AI/ML and Full-Stack Engineer, currently a third-year B.Tech Computer Science st
 </p>
 </td>
 </tr>
+
+</table>
+
+<hr>
+
+<p align="center">
+  <img src="https://count.getloli.com/@:101xVishal" alt="Profile views"/>
+</p>
+
